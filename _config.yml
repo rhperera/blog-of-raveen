@@ -1,4 +1,4 @@
-name: DopeTrope
-description: DopeTrope template for Jekyll
+name: raveenperera
+description: personal blog
 paginate: 10
-baseurl: '/DopeTrope-Jekyll-Theme'
+baseurl: 'http://rhperera.github.io/blog-of-raveen/'
