@@ -3,8 +3,8 @@ title:       Pixyll
 email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+baseurl:     "http://rhperera.github.io/blog-of-raveen"
+url:         "http://raveenperera.com"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -29,7 +29,7 @@ enable_anchorjs: false
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id: 
+fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -42,7 +42,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username:"rhperera"
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
