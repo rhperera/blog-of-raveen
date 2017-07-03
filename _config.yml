@@ -4,7 +4,7 @@ email:       harith9127@gmail.com
 author:      Raveen Perera
 description: "My Personal Blog"
 baseurl:     ""
-url:         ""
+url:         "http://rhperera.github.io/personal-blog/"
 date_format: "%b %-d, %Y"
 
 # Google services
